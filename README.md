@@ -37,6 +37,3 @@ flask run
 - You will get a link in bash or cmd like http://127.0.0.1:5000/
 - The website will run on this link
 
-<p align="center">
-  <img src = "static/images/logo.png" width = 150px>
-</p>
