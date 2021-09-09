@@ -18,11 +18,6 @@ A Web App to generate caption for Images. VGG-16 Model is used to encode the ima
 <img src = "screenshots/vdo.gif" width = 50%>
 
 ## How to run the project
-- Install python 3 (3.7 or higher) and add python to path
-- Clone the repository using cmd or bash:
-```shell
-git clone https://github.com/ABX9801/Book-Review-Website.git
-```
 - Install requirements using cmd or bash:
 ```shell
 pip install -r requirements.txt
